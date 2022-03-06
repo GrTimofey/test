@@ -11,4 +11,4 @@ gardener_oleg.harvest()
 gardener_oleg.work()
 gardener_oleg.harvest()
 gardener_oleg.work()
-gardener_oleg.harvest()
+gardener_oleg.harvest() #sidim perdim
